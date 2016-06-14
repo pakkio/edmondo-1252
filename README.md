@@ -1,4 +1,5 @@
 # edmondo-1252
+testing fork
 
 A very simple score keeper to help in building up small educational games in SecondLife, OpenSim or other virtual worlds,
 or for any games.
